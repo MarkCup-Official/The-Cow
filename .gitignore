@@ -76,3 +76,5 @@ crashlytics-build.properties
 
 /taptapsdk/*
 /taptapsdk
+
+/OutPut/*
